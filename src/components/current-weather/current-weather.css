@@ -1,3 +1,7 @@
+.search-bar {
+  background-color: rgba(243, 235, 224, 0.872);
+}
+
 .weather {
   width: 300px;
   border-radius: 6px;
